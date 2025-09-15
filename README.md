@@ -1,6 +1,5 @@
-# Project Package
+# Project for KHU MLiP competiton 2024_2
 
-This repository was generated from `ML_Baseline8229temp.ipynb` by extracting code cells into Python modules under `src/project_pkg/`.
 
 ## Layout
 ```
@@ -19,12 +18,4 @@ repo/
   ├─ requirements.txt
   └─ README.md
 ```
-
-## Usage
-```bash
-pip install -r requirements.txt
-python -m project_pkg.main --epochs 5 --seed 42
-```
-
-> Adjust function names in `main.py` to match your extracted code (e.g., `load_data`, `build_model`, `train_loop`, `evaluate`).
 
