@@ -1,0 +1,12 @@
+PIL
+copy
+h5py
+matplotlib
+numpy
+pandas
+seaborn
+sklearn
+tensorflow
+torch
+torchsummary
+torchvision
